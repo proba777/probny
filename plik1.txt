@@ -2,3 +2,5 @@ wojtek jest zarabisty
 dodana linijka
 trzecia linijka
 czwarta linijka
+linijka dodana poza master
+
