@@ -1,3 +1,4 @@
 tekst dodany do pliku2 w innej gałęzi
 wojtek
 wojtek2 \n wojtek3
+linia dodana przez towarzysza
